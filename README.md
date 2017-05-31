@@ -1,3 +1,5 @@
+# Intro
+
 Ever got impressed by the most mind-blowing ideas of theoretical physics?
 
 The time of lab experiments in physics is rather gone, because nowadays our fantasy about how the universe works in micro and macro scales goes beyond our practical ability to test and verify stuff. How do researchers know they are right about their ideas? It's all about logic.
@@ -13,3 +15,7 @@ Once such a system is built, which can store *rules of theories* in both human a
 I know I can't do this on my own. I would like to invite you to think with me about such an experiment practically and attempt to create a real project.
 
 Let's start by thinking [what could the data structure look like](https://github.com/Codename-METASYS/theory/issues/1).
+
+We can also chat on [Gitter](https://gitter.im/Codename-METASYS/Lobby)!
+
+![Preview](subjectpage.png)
