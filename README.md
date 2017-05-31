@@ -37,7 +37,7 @@ We can also chat on [Gitter](https://gitter.im/Codename-METASYS/Lobby)!
 
 ### What will this project help with?
 
-- Oragnisation of knowledge.
+- Organisation of knowledge.
 - Verification of existing theories.
 - Learning, with related subjects you won't miss anything as well as with many community-verified information sources you won't have to search the internet by trial and error.
 - Staying up to date with theories you are interested about.
