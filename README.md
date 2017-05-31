@@ -52,6 +52,10 @@ Wikipedia does not:
 
 This platform is not supposed to be a source of information, instead it will be a *sign post* to existing information sources. No articles here.
 
+### What fields of knowledge should the platform cover?
+
+Perhaps natural sciences. Should we start with just theoretical physics and see?
+
 ### Why is there *ScienceLog* on the preview image?
 
 Original idea for a name of the platform from when the preview UI was built back in 2014.
