@@ -56,6 +56,14 @@ This platform is not supposed to be a source of information, instead it will be 
 
 Perhaps natural sciences. Should we start with just theoretical physics and see?
 
+### How will this project be secured to work for years to come?
+
+Although alternative (commercial) plans for funding exist as an emergency solution, this project would the best go off donations.
+
+### Will *Codename METASYS* be the actual name of the platform?
+
+This name is just a working name. There has been several suggestions for the actual name of the platform, yet none has been chosen yet.
+
 ### Why is there *ScienceLog* on the preview image?
 
 Original idea for a name of the platform from when the preview UI was built back in 2014.
