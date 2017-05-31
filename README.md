@@ -1,3 +1,5 @@
+**Doing serious business and got no time to contribute? Please [support us on Patreon](https://www.patreon.com/codenamemetasys), every bit helps.**
+
 # Intro
 
 Ever got impressed by the most mind-blowing ideas of theoretical physics?
