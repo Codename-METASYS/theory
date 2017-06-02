@@ -69,3 +69,21 @@ This name is just a working name. There has been several suggestions for the act
 ### Why is there *ScienceLog* on the preview image?
 
 Original idea for a name of the platform from when the preview UI was built back in 2014.
+
+# The Theory
+
+What is a system (in general)?
+
+The boring definitions:
+
+- **Wikipedia (from Merriam-Webster dictionary):** *A system is a regularly interacting or interdependent group of items forming a unified whole.* [1](https://en.wikipedia.org/wiki/System), [2](https://www.merriam-webster.com/dictionary/system)
+- **businessdictionary.com:** *An organized, purposeful structure that consists of interrelated and interdependent elements (components, entities, factors, members, parts etc.). These elements continually influence one another (directly or indirectly) to maintain their activity and the existence of the system, in order to achieve the goal of the system.* [3](http://www.businessdictionary.com/definition/system.html)
+- **Oxford Dictionaries:** *A set of things working together as parts of a mechanism or an interconnecting network; a complex whole.* [4](https://en.oxforddictionaries.com/definition/system)
+- **Dictionary.com:** *An assemblage or combination of things or parts forming a complex or unitary whole.* [5](http://www.dictionary.com/browse/system)
+- ...
+
+The nice a actually useful definition:
+
+> System is a set of (logical) rules.
+
+*Tadaa!* A bit different point view - of a computer engineer. The difference between this and the other definitions of system is the fact that we can use it with the tools that are probably the most common to us in this age: digital devices. What's digital works with logical rules and we can use such devices to help us with discovering the rules of a system.
