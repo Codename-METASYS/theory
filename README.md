@@ -84,6 +84,42 @@ The boring definitions:
 
 The nice a actually useful definition:
 
-> System is a set of (logical) rules.
+> **System is a set of (logical) rules.**
 
 *Tadaa!* A bit different point view - of a computer engineer. The difference between this and the other definitions of system is the fact that we can use it with the tools that are probably the most common to us in this age: digital devices. What's digital works with logical rules and we can use such devices to help us with discovering the rules of a system.
+
+### *A system* or *The system*?
+
+Computer engineers often create rules their applications work under. An application (computer program) is a system - a set of rules saying what should happen under certain conditions. Development of an application is a fair example of system evolution - from a few primitive rules (a few of `if`s) an application usually grows to hundreds of thousands of rules. Obviously, rules can be extended. Let's have a look at an example.
+
+A very basic rule in an application may be:
+```
+if (userRole == 'registered') // basic rule
+{
+    // allow viewing
+}
+```
+
+This rule may be extended with another one:
+```
+if (userRole == 'registered') // basic rule
+{
+    // allow viewing
+
+    if (userRole == 'admin') // extending rule
+    {
+        // allow editing
+    }
+}
+```
+
+Having these two rules in an application, we could say that we have created *a system*. If we think about it further, we realize that behind the scenes, our example *basic rule* is actually already an extending rule, which extends rules that are given by the interpreter of our script. The interpreter of our script further extends the rules of the operating system we run the application under, which further extends the rules given by the physical machine.
+
+It's basically just the rules of `1`s and `0`s we are extending in computers, every operating system or application running on a computer seem to be just "extensions" of these very basic two rules of *existing electric current* (`1`) or *non-existen electric current* (`0`). All these systems like applications, plugins, script interpreters, drivers, operating systems or even hardware like graphics cards, memory modules and so on, would it be better to rather call them **subsystems**?
+
+Of course those `1`s and `0`s are just an extension too, computer systems are just a subsystem of a system we call *the laws of physics*.
+
+![We need to go deeper](http://i0.kym-cdn.com/entries/icons/original/000/012/886/wntgd.jpg)
+
+This being said, it appears that the Universe is *the ultimate system* and everything we call *a system* is in fact *a subsystem*. For convetional use, let's keep calling these *subsystems* (specific sets of rules) simply *systems*. By saying *a system*, let's understand *a subsystem* of the Universe, yet for our definition of *system*, should we not use either *the* or *a*?
+
