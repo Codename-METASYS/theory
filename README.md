@@ -123,3 +123,14 @@ Of course those `1`s and `0`s are just an extension too, computer systems are ju
 
 This being said, it appears that the Universe is *the ultimate system* and everything we call *a system* is in fact *a subsystem*. For convetional use, let's keep calling these *subsystems* (specific sets of rules) simply *systems*. By saying *a system*, let's understand *a subsystem* of the Universe, yet for our definition of *system*, should we not use either *the* or *a*?
 
+### The Holy Grail of science
+
+If everything is a subsystem, does te Universe extend only a few fundamental rules just like our computer programs only extend `1`s and `0`s? How many are they?
+
+Knowing what are the very basic rules / laws of the Universe would probably help us with accurately verifying the rules that we already think we know. The trouble is that we don't know where is this *root of extensions*. At this point the mankind is able to observe only a certain portion of the whole rule set of *the system*, and we are trying to figure out what rule / law is based on another one.
+
+We are trying to reconstruct (or reverse-engineer in other words) the rules of the Universe, and we've been already coming up with as many ideas for rules that could apply as we are not able to verify them against already *established rules*. That's why the mankind needs a project like this one.
+
+An *established rule* is a rule that *makes sense* with other rules (is logically verified). The more established rules make sense with a new rule, the more likely is the new rule to be true. On the other hand, the history has proven that even well established rules may turn out to be not true with alternative theories (alternative rule set ideas) coming up. A good example would be [aether](https://en.wikipedia.org/wiki/Aether_(classical_element) versus [gravity](https://en.wikipedia.org/wiki/Gravity).
+
+It is common for one theory (understand rule set) to take over another. The fun comes when two large rule sets develop and get relatively established, but don't make sense with each other in certain parts, like the [theory of relativity](https://en.wikipedia.org/wiki/Theory_of_relativity) and [quantum physics](https://en.wikipedia.org/wiki/Quantum_mechanics). How can it happen? Pure logic tells us that something is either *true* or *false*, there's nothing like partially true or something between. The cause to such an existing issue is the fact that humans are not accurate enough. No single scientist has got all the rules of the Universe we think we know packed in their head to be able to verify them with each other. A machine may do it. Even if a machine may not be able to hold all rules of the Universe (because it may be and incredible amount of data), it will most certainly be able to hold and verify more rules than all scientists together.
