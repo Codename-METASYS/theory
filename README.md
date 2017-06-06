@@ -82,7 +82,7 @@ The boring definitions:
 - **Dictionary.com:** *An assemblage or combination of things or parts forming a complex or unitary whole.* [5](http://www.dictionary.com/browse/system)
 - ...
 
-The nice a actually useful definition:
+The nice and actually useful definition:
 
 > **System is a set of (logical) rules.**
 
