@@ -125,7 +125,7 @@ This being said, it appears that the Universe is *the ultimate system* and every
 
 ### The Holy Grail of science
 
-If everything is a subsystem, does te Universe extend only a few fundamental rules just like our computer programs only extend `1`s and `0`s? How many are they?
+If everything is a subsystem, does the Universe extend only a few fundamental rules just like our computer programs only extend `1`s and `0`s? How many are they?
 
 Knowing what are the very basic rules / laws of the Universe would probably help us with accurately verifying the rules that we already think we know. The trouble is that we don't know where is this *root of extensions*. At this point the mankind is able to observe only a certain portion of the whole rule set of *the system*, and we are trying to figure out what rule / law is based on another one.
 
@@ -139,7 +139,7 @@ Do we already know one of more of the Universe's fundamental rules? What do you 
 
 ### Hacking beyond the box
 
-Numerous writers ands philosopers have came up with the idea that we may live in a (computer-like) simulation or that the Universe we know is just one of many dimensions. Although none of these theories (rule sets) were explicitly proven (established) yet, it may be possible that the Universe is not *the system*, but just a *subsystem* of something much bigger.
+Numerous writers and philosopers have came up with the idea that we may live in a (computer-like) simulation or that the Universe we know is just one of many dimensions. Although none of these theories (rule sets) were explicitly proven (established) yet, it may be possible that the Universe is not *the system*, but just a *subsystem* of something much bigger.
 
 Imagine you lived in a computer game. Would you be able to recognize if the fact that your world is a computer simulation is true? If you saw an object going through a wall (which still often happens in games), you would probably think that "this is not real". You would think that because you know how the "real world" works (the system/subsystem you actually live in) and that it is not possible for an object to just go through wall easily. But imagine you never saw the thing we call the "real world" and you always only lived inside the game, where objects often go through walls and nothing happens - you would think that it is pretty normal.
 
