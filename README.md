@@ -49,9 +49,9 @@ We can also chat on [Gitter](https://gitter.im/Codename-METASYS/Lobby)!
 
 Wikipedia and other encyclopedias are meant to store information. This project is supposed to organize and verify information and identify valid information sources.
 
-Wikipedia does not:
+Besides that, Wikipedia does not:
 - programatically verify theories,
-- allow you to mark learned subjects (articles),
+- allow you to mark learned subjects,
 - offer discussions / forums dedicated to subjects.
 
 This platform is not supposed to be a source of information, instead it will be a *sign post* to existing information sources. No articles here.
