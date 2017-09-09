@@ -47,6 +47,8 @@ We can also chat on [Gitter](https://gitter.im/Codename-METASYS/Lobby)!
 
 ### How will this be different from Wikipedia or similar websites?
 
+Wikipedia and other encyclopedias are meant to store information. This project is supposed to organize and verify information and identify valid information sources.
+
 Wikipedia does not:
 - programatically verify theories,
 - allow you to mark learned subjects (articles),
